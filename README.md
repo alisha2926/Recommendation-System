@@ -23,11 +23,11 @@ To develop a recommendation system that can accurately suggest similar movies ba
 ## 🏗️ Project Workflow
 1️⃣ Data Preprocessing
 
--Loaded dataset using pandas
+- Loaded dataset using pandas
 
--Removed missing values and duplicate records
+- Removed missing values and duplicate records
 
--Mapped userId and movieId to numerical indices
+- Mapped userId and movieId to numerical indices
 
 2️⃣ Matrix Creation
 
@@ -35,19 +35,27 @@ To develop a recommendation system that can accurately suggest similar movies ba
 
 3️⃣ Model Building
 
--Used Nearest Neighbors from scikit-learn
+- Used Nearest Neighbors from scikit-learn
 
--Similarity metric: Cosine similarity
+- Similarity metric: Cosine similarity
 
--Algorithm: Brute-force search
+- Algorithm: Brute-force search
 
 4️⃣ Recommendation Function
 
--Takes a movie title as input
+- Takes a movie title as input
 
--Finds top K most similar movies
+- Finds top K most similar movies
 
--Returns recommended titles
+- Returns recommended titles
 
 ## Output
 <img src= " https://github.com/alisha2926/Recommendation-System/blob/main/Recommendation%20System%20Output%20pic.png">
+
+## 📊 Results
+
+- Achieved meaningful recommendations using cosine similarity
+
+- Efficient sparse matrix storage using SciPy
+
+- Scalable to large datasets (e.g., MovieLens 20M)
