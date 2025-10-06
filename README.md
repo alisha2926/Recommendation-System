@@ -50,7 +50,7 @@ To develop a recommendation system that can accurately suggest similar movies ba
 - Returns recommended titles
 
 ## Output
-<img src= " https://github.com/alisha2926/Recommendation-System/blob/main/Recommendation%20System%20Output%20pic.png"/>
+<img src= " https://github.com/alisha2926/Recommendation-System/blob/main/Recommendation%20System%20Output%20pic.png"></img>
 
 ## 📊 Results
 
