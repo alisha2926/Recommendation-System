@@ -36,3 +36,6 @@ To develop a recommendation system that can accurately suggest similar movies ba
 -Takes a movie title as input
 -Finds top K most similar movies
 -Returns recommended titles
+
+## Output
+img src= {" https://github.com/alisha2926/Recommendation-System/blob/main/Recommendation%20System%20Output%20pic.png"}
