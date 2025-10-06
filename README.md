@@ -6,19 +6,19 @@ To develop a recommendation system that can accurately suggest similar movies ba
 [Dataset] (https://github.com/alisha2926/Recommendation-System/blob/main/ratings.csv)
 ## ⚙️ Technologies & Libraries Used
 
--Python 3.11+
+- Python 3.11+
 
--NumPy  
+- NumPy  
 
--Pandas
+- Pandas
 
--SciPy
+- SciPy
 
--Scikit-learn
+- Scikit-learn
 
--TensorFlow (for environment setup)
+- TensorFlow (for environment setup)
 
--Jupyter Notebook
+- Jupyter Notebook
 
 ## 🏗️ Project Workflow
 1️⃣ Data Preprocessing
@@ -50,7 +50,7 @@ To develop a recommendation system that can accurately suggest similar movies ba
 - Returns recommended titles
 
 ## Output
-<img src= " https://github.com/alisha2926/Recommendation-System/blob/main/Recommendation%20System%20Output%20pic.png">
+<img src= " https://github.com/alisha2926/Recommendation-System/blob/main/Recommendation%20System%20Output%20pic.png"/>
 
 ## 📊 Results
 
