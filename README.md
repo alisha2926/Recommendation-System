@@ -5,6 +5,7 @@ To develop a recommendation system that can accurately suggest similar movies ba
 ## 📂 Dataset Used 
 [Dataset] (https://github.com/alisha2926/Recommendation-System/blob/main/ratings.csv)
 ## ⚙️ Technologies & Libraries Used
+
 -Python 3.11+
 -NumPy
 -Pandas
@@ -12,21 +13,26 @@ To develop a recommendation system that can accurately suggest similar movies ba
 -Scikit-learn
 -TensorFlow (for environment setup)
 -Jupyter Notebook
+
 ## 🏗️ Project Workflow
 1️⃣ Data Preprocessing
+
 -Loaded dataset using pandas
 -Removed missing values and duplicate records
 -Mapped userId and movieId to numerical indices
 
 2️⃣ Matrix Creation
+
 -Created a User–Movie Rating Matrix using csr_matrix from SciPy
 
 3️⃣ Model Building
+
 -Used Nearest Neighbors from scikit-learn
 -Similarity metric: Cosine similarity
 -Algorithm: Brute-force search
 
 4️⃣ Recommendation Function
+
 -Takes a movie title as input
 -Finds top K most similar movies
 -Returns recommended titles
